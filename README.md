@@ -1,2 +1,3 @@
-# noveltyv5
-SA-MP Novelty v5 Gamemode
+# Novelty Roleplay Gamemode v5 Rodriquez.
+# It was coded with the Pawn programming language.
+
